@@ -547,7 +547,7 @@ neo4j@neo4j> // Lagrange
 + Modelo de datos
 
 
-AGRAR IMAGEN DE res/data-model.png
+![modelo](https://github.com/nandroidj/gvd-neo4j/blob/main/res/data-model.png)
 
 
 1. Listado de alumnos que cursaron la misma materia, pero en esta materia son de distintos grupos
